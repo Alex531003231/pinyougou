@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [26/May/2018:14:58:10 +0800] "GET /maven_day02_1/items/findDetail HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [26/May/2018:14:58:44 +0800] "GET /maven_day02_1/items/findDetail HTTP/1.1" 404 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [26/May/2018:14:58:45 +0800] "GET /maven_day02_1/items/findDetail HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [26/May/2018:14:58:46 +0800] "GET /maven_day02_1/items/findDetail HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [26/May/2018:14:58:48 +0800] "GET /maven_day02_1/items/findDetail HTTP/1.1" 404 - http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [26/May/2018:15:01:45 +0800] "GET /maven_day02_web/items/show HTTP/1.1" 404 1003 http-bio-8080-exec-1 88
+0:0:0:0:0:0:0:1 - - [26/May/2018:15:01:53 +0800] "GET /maven_day02_web/items/show HTTP/1.1" 404 1003 http-bio-8080-exec-2 6
+0:0:0:0:0:0:0:1 - - [26/May/2018:15:02:28 +0800] "GET /maven_day02_web/items/show HTTP/1.1" 404 1003 http-bio-8080-exec-3 2
+0:0:0:0:0:0:0:1 - - [26/May/2018:15:02:56 +0800] "GET /maven_day02_web/items/findDetail HTTP/1.1" 200 646 http-bio-8080-exec-4 1224
+0:0:0:0:0:0:0:1 - - [26/May/2018:15:05:04 +0800] "GET /maven_day02_web/items/findDetail HTTP/1.1" 200 646 http-bio-8080-exec-1 731
+0:0:0:0:0:0:0:1 - - [26/May/2018:15:08:39 +0800] "GET /maven_day02_web/items/findDetail HTTP/1.1" 200 646 http-bio-8080-exec-1 557
